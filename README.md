@@ -13,5 +13,7 @@ In the past, I worked as a backend developer using Java and was also involved in
 - 🔹 **Node.JS** and **Python** (for scripts)
 
 ## 📫 How to reach me
+- 🌐 [Website](https://brunofurtado.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/brunofurtado/)
+- 💻 [Professional GitHub](https://github.com/bruno-furtado-billor/)
 - 📧 **brunotfurtado@gmail.com**
