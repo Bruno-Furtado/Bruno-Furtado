@@ -1,7 +1,9 @@
 # Hello, I'm Bruno Furtado! 👋
 
 ## 👨🏻‍💻  About me
-Based in **Curitiba, Brazil**, I'm a Data Engineering Lead with 15+ years in tech, currently leading the data team at [Billor](https://billor.us/) (US-based trucking company). I specialize in building scalable data platforms on Google Cloud, with a strong focus on architecture, automation and business impact.
+Based in **Curitiba, Brazil**, I'm a Data Engineering Lead with 15+ years in tech, currently leading the data team at [Billor](https://billor.us/) (US-based trucking company).
+
+I specialize in building scalable data platforms on Google Cloud, with a strong focus on architecture, automation and business impact.
 
 Before data, I spent 10+ years as a mobile engineer and tech lead, working on apps with millions of monthly users.
 
