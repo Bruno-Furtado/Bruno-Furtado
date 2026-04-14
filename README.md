@@ -1,16 +1,16 @@
 # Hello, I'm Bruno Furtado! 👋
 
 ## 👨🏻‍💻  About me
-Based in **Curitiba, Brazil**, I am a Data Engineer with expertise in [Google Cloud](https://cloud.google.com/) tools. Passionate about data, automation, and optimizing processes for efficiency and scalability.
+Based in **Curitiba, Brazil**, I'm a Data Engineering Lead with 15+ years in tech, currently leading the data team at [Billor](https://billor.us/) (US-based trucking company). I specialize in building scalable data platforms on Google Cloud, with a strong focus on architecture, automation and business impact.
 
-In the past, I worked as a backend developer using Java and was also involved in projects developing mobile applications for iOS and Android.
+Before data, I spent 10+ years as a mobile engineer and tech lead, working on apps with millions of monthly users.
 
 ## 💡 Key skills
 - 🔹 Team Leadership & Management
 - 🔹 Data Architecture
 - 🔹 Google Cloud Platform (**BigQuery**, **Storage**, **Cloud Run**, **Workflows** and others)
 - 🔹 SQL
-- 🔹 **Node.JS** and **Python** (for scripts)
+- 🔹 **Node.JS** and **Python**
 
 ## 📫 How to reach me
 - 🌐 [Website](https://brunofurtado.dev)
