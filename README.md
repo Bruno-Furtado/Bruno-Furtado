@@ -8,7 +8,7 @@ Based in **Curitiba, Brazil**, I'm a Data Engineering Lead with 15+ years in tec
 - 🔹 **dbt** for analytics engineering and data modeling
 - 🔹 **Google Cloud Platform**: BigQuery, Cloud Run, Cloud Functions, Pub/Sub, Datastream, Workflows, Vertex AI
 - 🔹 **Data Architecture** and pipeline design
-- 🔹 **Team Leadership & People Management**
+- 🔹 **Team Leadership**
 
 ## 📫 How to reach me
 - 🌐 [Website](https://brunofurtado.dev)
