@@ -13,5 +13,4 @@ Based in **Curitiba, Brazil**, I'm a Data Engineering Lead with 15+ years in tec
 ## 📫 How to reach me
 - 🌐 [Website](https://brunofurtado.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/brunofurtado/)
-- 💻 [Professional GitHub](https://github.com/bruno-furtado-billor/)
 - 📧 **brunotfurtado@gmail.com**
