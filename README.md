@@ -6,7 +6,7 @@ Based in Curitiba, Brazil, I’m a Data & AI Project Specialist at TOTVS, leadin
 I have 15+ years of experience in technology, including a decade as a mobile engineer and tech lead before moving into data engineering, architecture, and technical leadership.
 
 ## 💡 Key skills
-- 🔹 **Google Cloud Platform**: BigQuery, Cloud Storage, Cloud Run, Pub/Sub, Dataflow, Datastream, Workflows, Cloud SQL, AlloyDB and Vertex AI
+- 🔹 **Google Cloud Platform**: BigQuery, Storage, Cloud Run, Pub/Sub, Dataflow, Datastream, Workflows, Cloud SQL, AlloyDB, Vertex AI
 - 🔹 **Python and SQL** for data engineering and automation
 - 🔹 **dbt** for analytics engineering and data modeling
 - 🔹 **Data Architecture** and platform design
